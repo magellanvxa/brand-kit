@@ -26,8 +26,8 @@ Base is a secure, low-cost, builder-friendly Ethereum L2 designed to help bring 
 ## What to Avoid
 The Base core team does its best to amplify builders who positively contribute to the Base ecosystem. To increase your chances of amplification on social channels, please avoid the following (including in any linked content):
 
-- **Using Financial Terminology:** Refrain from financial terms indicating gains, profits, investments, high yields, leverage, lucrative opportunities, etc. Avoid providing investment recommendations or strategies.
-- **Mentioning Specific Tokens:** Focus on your utility, gameplay, or experience instead of specific tokens, token rewards, etc.
+- **Using Financial Terminology:** Refrain from financial terms indicating gains, profits, investments, high yields, leverage, lucrative opportunities, etc. Avoid providing investment recommendations, calls to action, or strategies.
+- **Mentioning Specific Tokens:** Focus on your utility, gameplay, or experience instead of singling out specific tokens, token rewards, etc. This applies to both written content and product visuals (e.g., screenshots or videos).
 - **No Context of Underlying Project:** This might be the first time someone in the Base ecosystem is learning about your project. Avoid solely focusing on specific products, isolated milestones, or new features, without readers understanding the context of your underlying project.
 - **Disputable Superlatives:** Avoid using unverified superlatives like “the best”, “the first”, “maximize”, “ensure”, etc.
 - **Unapproved Partnerships:** Avoid references to a “partnership” or “collaboration” with Base and instead reference that your project is launched on, built on, or integrated with Base.
