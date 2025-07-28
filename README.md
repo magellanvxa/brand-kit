@@ -28,7 +28,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 
 ### Guides
 
-- [Brand Guide](guides/brand-guide.pdf)
+- [Brand Guide](http://base.org/brand)
 - [Editorial Style Guide](guides/editorial-style-guide.md)
 
 ### Fonts
@@ -37,10 +37,10 @@ Located in [/fonts](fonts/).
 
 ### Logos
 
-![InProduct](logo/in-product/Base_Network_Logo.svg)
+![BaseMark](logo/Basemark/Digital/Base_basemark_blue.svg)
 
 | Symbol                                            | Wordmark                                                |
 | ------------------------------------------------- | ------------------------------------------------------- |
-| ![SymbolBlue](logo/symbol/Base_Symbol_Blue.svg)   | ![WordmarkBlue](logo/wordmark/Base_Wordmark_Blue.svg)   |
-| ![SymbolWhite](logo/symbol/Base_Symbol_White.svg) | ![WordmarkWhite](logo/wordmark/Base_Wordmark_White.svg) |
-| ![SymbolBlack](logo/symbol/Base_Symbol_Black.svg) | ![WordmarkBlack](logo/wordmark/Base_Wordmark_Black.svg) |
+| ![SymbolBlue](logo/TheSquare/Digital/Base_square_blue.svg)   | ![WordmarkBlue](logo/Basemark/Digital/Base_basemark_blue.svg)   |
+| ![SymbolWhite](logo/TheSquare/Digital/Base_square_white.svg)   | ![WordmarkWhite](logo/Basemark/Digital/Base_basemark_white.svg)   |
+| ![SymbolBlack](logo/TheSquare/Digital/Base_square_black.svg)   | ![WordmarkBlack](logo/Basemark/Digital/Base_basemark_black.svg)   |
